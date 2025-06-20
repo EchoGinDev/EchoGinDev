@@ -11,8 +11,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoGinDev&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EchoGinDev&theme=tokyonight)](https://git.io/streak-stats)
-
 ---
 
 ## 📈 GitHub Activity
