@@ -29,7 +29,14 @@
   <a href="https://stackoverflow.com/users/23504027" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@EchoGin101" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/gin_alter" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
+
 
 ---
 
