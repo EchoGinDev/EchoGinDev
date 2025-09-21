@@ -62,4 +62,9 @@
 
 ---
 
+<h1 align="center">See you again..</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EchoGinDev/EchoGinDev/main/asset/KIROKAZE.gif">
+</p>
 
