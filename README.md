@@ -1,7 +1,7 @@
 <h1 align="center">Hello!, I'm Andriano</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=EchoGinDev&label=Profile%20views&color=0e75b6&style=flat" alt="EchoGinDev" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EchoGinDev/EchoGinDev/main/asset/Pixelart%20GIF1.gif" width="500">
 </p>
 
 ---
