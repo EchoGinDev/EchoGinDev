@@ -1,5 +1,6 @@
 <h1 align="center">Hello!, I'm Andriano</h1>
-<p align="left">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=EchoGinDev&label=Profile%20views&color=0e75b6&style=flat" alt="EchoGinDev" />
 </p>
 
